@@ -17,4 +17,3 @@ A principal funcionalidade do sistema é manter organizado o agendamento de clie
  * **REQ4** - O sistema deve permitir o gerenciamento (CRUD) de clientes.
  * **REQ5** - O sistema mostrará um relatório de todos os agendamentos.
  * **REQ6** - Os agendamentos devem conter data e hora.
-
